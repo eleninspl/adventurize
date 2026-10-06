@@ -4,7 +4,7 @@
 
 A Flutter mobile app that mixes travel discovery with a small social network. Users take photos that are pinned to a map at the place they were taken ("memories"), complete photo challenges to earn points, add friends by scanning each other's QR codes, and compete with them on a leaderboard. All data is stored on the device in SQLite.
 
-Adventurize was a team project for **Human-Computer Interaction** (Επικοινωνία Ανθρώπου-Μηχανής), a 7th-semester course at the School of Electrical and Computer Engineering, National Technical University of Athens (ECE NTUA), academic year 2024–25. It was built by a team of three: George Isopoulos ([@gtiso](https://github.com/gtiso)), Dimitris ([@dimtze03](https://github.com/dimtze03)) and me, Eleni Nasopoulou. This repository is a fork of the team repository, [gtiso/adventurize](https://github.com/gtiso/adventurize).
+Adventurize was a team project for **Human-Computer Interaction** (Αλληλεπίδραση Ανθρώπου-Υπολογιστή), a 7th-semester course at the School of Electrical and Computer Engineering, National Technical University of Athens (ECE NTUA), academic year 2024–25. It was built by a team of three: George Isopoulos ([@gtiso](https://github.com/gtiso)), Dimitris Tzellos ([@dimtze03](https://github.com/dimtze03)) and me, Eleni Nasopoulou. This repository is a fork of the team repository, [gtiso/adventurize](https://github.com/gtiso/adventurize).
 
 ## Features
 
