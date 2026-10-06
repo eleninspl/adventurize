@@ -1,0 +1,4 @@
+# Editor and OS files (the Flutter project has its own adventurize/.gitignore)
+.DS_Store
+.idea/
+.vscode/
